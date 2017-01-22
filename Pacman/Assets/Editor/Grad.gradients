@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12321, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Grad
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: ghost
+    m_Gradient:
+      key0:
+        serializedVersion: 2
+        rgba: 4278190335
+      key1:
+        serializedVersion: 2
+        rgba: 4292359142
+      key2:
+        serializedVersion: 2
+        rgba: 16711706
+      key3:
+        serializedVersion: 2
+        rgba: 16056081
+      key4:
+        serializedVersion: 2
+        rgba: 2752357
+      key5:
+        serializedVersion: 2
+        rgba: 4385279
+      key6:
+        serializedVersion: 2
+        rgba: 2717183
+      key7:
+        serializedVersion: 2
+        rgba: 16777215
+      ctime0: 0
+      ctime1: 7132
+      ctime2: 15227
+      ctime3: 23708
+      ctime4: 36044
+      ctime5: 45682
+      ctime6: 56669
+      ctime7: 65535
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 8
+      m_NumAlphaKeys: 2
