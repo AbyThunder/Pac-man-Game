@@ -1,2 +1,2 @@
-# Snamakooliscool
+# First Person Pacman Game
 Pacman
